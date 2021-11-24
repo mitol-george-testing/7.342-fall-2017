@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Biomedicine"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Developmental Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Stem Cells"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0624e3f2-48d7-ce3d-3246-cfaec2c4a5e3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "How To Build An Animal: Cell Fate and Identity in Development and Disease",
+  "course_description": "In this course, we will explore how animals determine and maintain cell fate. We will discuss changes to DNA structure and packaging, special proteins (known as \"master regulators\") with the ability to alter cell fate via transcription, cell-cell signaling, and RNA localization.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.342",
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
